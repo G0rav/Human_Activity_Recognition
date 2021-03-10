@@ -32,6 +32,10 @@ Whole project is split into 3 parts:
 
 Well we can easily distinguish between static and dynamic activities by looking at the data but for differentiate between same kind, we need Machine learning or deep learning model. As this is time series problem, I've used LSTMs for model training. 
 
+Model Architechture:
+
+<img src='https://github.com/G0rav/Human_Activity_Recognition/blob/main/src/model%20structure.png'>
+
 ## Result
 
 It performs well on almost all activities but confuses between few activity.
